@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello friends👋
 
 <!--
 **guptapriya-83900/guptapriya-83900** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
