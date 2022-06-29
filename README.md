@@ -30,6 +30,8 @@
 
 **GITHUB STAT'S**
 
-![stats](https://github-readme-stats.vercel.app/api?username=guptapriya-83900&show_icons=true&theme=synthwave)
+![Priya's GitHub stats](https://github-readme-stats.vercel.app/api?username=guptapriya-83900&show_icons=true&theme=radical)
 
-[![GitHub guptapriya-83900](https://img.shields.io/github/followers/guptapriya-83900?label=follow&style=social)](https://github.com/guptapriya-83900)
+
+
+
