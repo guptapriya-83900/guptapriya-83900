@@ -2,7 +2,7 @@
 
 **ABOUT ME...**
 <p align='center'>
-<h4> I'm Priya Gupta an undergraduate student , indulged in competitive programming, my field of interest is Artifical Intelligence and I'm a backend developer. </h4> 
+<h4> I'm Priya Gupta an undergraduate student , indulged in competitive programming, my field of interest is Artificial Intelligence and I'm a backend developer. </h4> 
 
 - 👯 I’m looking for ways to contribute meaningfully to Open Source projects, documentations, and communities. [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
