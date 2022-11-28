@@ -16,7 +16,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-blue?style=for-the-badge&logo=bootstrap)
 ![Javascript](https://img.shields.io/badge/-Javascript-ffb400?style=for-the-badge&logo=javascript&logoColor=ffff3f)
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=blue)
-![Python](https://img.shields.io/badge/Machine Learning-blue?style=for-the-badge&logo=Machine Learningn&logoColor=blue)
+
 
 
 
