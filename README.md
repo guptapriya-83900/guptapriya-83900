@@ -1,37 +1,56 @@
-### Hello, friends👋
+# Hi there, I'm Priya Gupta 👋
 
-**ABOUT ME...**
-<p align='center'>
-<h4> I'm Priya Gupta an Graduate student , indulged in competitive programming, my field of interest is Artificial Intelligence and I'm a backend developer. </h4> 
+![Profile Banner](https://github.com/guptapriya-83900/Profile_banner/blob/main/Profile_banner.png)
 
-- 👯 I’m looking for ways to contribute meaningfully to Open Source projects, documentations, and communities. [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+## About Me
 
-- 💬 Ask me about: Python ❤️ 
--  👩‍💻 Currently learning: Machine Learning
+I'm a passionate Data Scientist currently pursuing a Master of Data Science at the University of California, Irvine. With a robust background in Computer Engineering I specialize in transforming data into actionable insights and building models to solve real-world problems. My expertise lies in Machine Learning, Deep Learning, and CV.
 
-**TECHNOLOGIES I WORK WITH**
+### Personal Motto
+_"Data is the new oil, but it’s only valuable if you can extract meaning from it."_
 
-![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-blue?style=for-the-badge&logo=bootstrap)
-![Javascript](https://img.shields.io/badge/-Javascript-ffb400?style=for-the-badge&logo=javascript&logoColor=ffff3f)
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=blue)
+- 🔭 I’m currently working on developing advanced machine learning models and enhancing my knowledge in data science.
+- 🌱 I’m currently learning about Big Data technologies and cloud computing with AWS.
+- 👯 I’m looking to collaborate on innovative data science projects and open-source contributions.
+- 💬 Ask me about machine learning algorithms, data analysis techniques, and statistical modeling.
+- 📫 How to reach me: pbgupta@uci.edu
+
+## Skills
+
+- **Programming Languages:** Python, C++, MATLAB
+- **Web Development:** HTML, CSS, Bootstrap, Flask
+- **Python Libraries and Frameworks:** Pandas, NumPy, Matplotlib, TensorFlow, OpenCV, Scikit-learn, Keras
+- **Database:** MySQL, PostgreSQL
+- **Data Science:** Data Analysis, Machine Learning, Deep Learning, LLM
+- **Statistical Analysis:** Strong applied statistics skills, including distributions, statistical testing, regression
+- **Business Intelligence:** Tableau, Microsoft Excel, AWS
+- **Big Data Technologies:** Apache Spark
+
+## Professional Summary
+
+Data Scientist with a solid background in computer engineering, experienced in transforming data into actionable insights and building models to solve complex problems. Proven track record of improving model accuracy and optimizing algorithms. Skilled in Python, SQL, and various data science tools and technologies.
+
+## Achievements
+
+- Kaggle: Google KaggleX BIPOC Mentee
+- Contributed to open-source projects like SENMETER for sentiment analysis.
+
+## Fun Facts
+
+- 📖 A big fan of fantasy novels, always on the lookout for new book recommendations.
+
+## Contact Me
+
+- [LinkedIn](https://www.linkedin.com/in/priya-gupta-3341b0192)
+- [GitHub](https://github.com/guptapriya-83900)
+- [Email](mailto:pbgupta@uci.edu)
+
+## Visual Appeal
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guptapriya-83900&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guptapriya-83900&layout=compact&theme=radical)
 
 
-
-
- 🌐 **REACH ME ON**
-
-- [![Linkedin:PriyaGupta](https://img.shields.io/badge/-PriyaGupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/priya-gupta-3341b0192/)](https://www.linkedin.com/in/priya-gupta-3341b0192/)
-
-
-
-</p>
-
-
-**GITHUB STAT'S**
-
-![Priya's GitHub stats](https://github-readme-stats.vercel.app/api?username=guptapriya-83900&show_icons=true&theme=radical)
 
 
 
