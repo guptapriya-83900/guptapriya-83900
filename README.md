@@ -1,6 +1,6 @@
 # Hi there, I'm Priya Gupta 👋
 
-![Profile Banner](https://github.com/guptapriya-83900/Profile_banner/blob/main/Profile_banner.png)
+![Profile Banner](https://github.com/guptapriya-83900/Profile_banner/blob/main/PRIYA%20GUPTA.png)
 
 ## About Me
 
