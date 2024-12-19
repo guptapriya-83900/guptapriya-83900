@@ -6,6 +6,9 @@
 
 I'm a passionate Data Scientist currently pursuing a Master of Data Science at the University of California, Irvine. With a robust background in Computer Engineering I specialize in transforming data into actionable insights and building models to solve real-world problems. My expertise lies in Machine Learning, Deep Learning, and CV.
 
+## Portfolio
+
+- [Portfolio](https://guptapriya-83900.github.io/)
 ### Personal Motto
 _"Data is the new oil, but it’s only valuable if you can extract meaning from it."_
 
