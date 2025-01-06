@@ -4,7 +4,7 @@
 
 ## About Me
 
-I'm a passionate Data Scientist currently pursuing a Master of Data Science at the University of California, Irvine. With a robust background in Computer Engineering I specialize in transforming data into actionable insights and building models to solve real-world problems. My expertise lies in Machine Learning, Deep Learning, and CV.
+I'm a passionate Data Scientist graduated with a Master of Data Science degree from University of California, Irvine. With a robust background in Computer Engineering I specialize in transforming data into actionable insights and building models to solve real-world problems. My expertise lies in Machine Learning, Deep Learning, and CV.
 
 ## Portfolio
 
