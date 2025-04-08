@@ -30,9 +30,6 @@ _"Data is the new oil, but it’s only valuable if you can extract meaning from 
 - **Big Data Technologies:** Apache Spark
 
 ## Featured Projects
-### TALECRAFT - Virtual Storytelling Companion
-An AI-driven storytelling assistant utilizing Retrieval-Augmented Generation (RAG) and Gemini model for personalized, interactive narratives. Integrated DALL-E for visual storytelling within a Streamlit interface, enhancing user engagement by 60%.
-
 ### FINCHAT – Financial Advice Chatbot
 Developed a chatbot leveraging LLaMA and BERT to deliver personalized, sentiment-aware financial advice. Achieved a 20% improvement in accuracy and deployed a real-time application with Streamlit.
 
