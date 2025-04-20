@@ -30,14 +30,11 @@ _"Data is the new oil, but it’s only valuable if you can extract meaning from 
 - **Big Data Technologies:** Apache Spark
 
 ## Featured Projects
-### FINCHAT – Financial Advice Chatbot
+### [FINCHAT – Financial Advice Chatbot](https://github.com/guptapriya-83900/FINCHAT-Financial-Advice-Chatbot)
 Developed a chatbot leveraging LLaMA and BERT to deliver personalized, sentiment-aware financial advice. Achieved a 20% improvement in accuracy and deployed a real-time application with Streamlit.
 
-### MCQ Generator using LLM on Langchain
-A custom MCQ generator that utilizes LLMs through Langchain, automating question creation for educational purposes.
-
-### PRODUCT RECOMMENDATION SYSTEM
-Engineered a recommendation system using Autoencoders and PCA to enhance user preference predictions by 20%. Deployed via Flask with optimized generalization techniques like batch normalization and dropout.
+### [Energy Demand Forecasting System](https://github.com/guptapriya-83900/Energy_Demand_Forecasting_System/tree/main)
+Developed a real-time energy demand forecasting system using a hybrid CNN-LSTM model in PyTorch. Achieved 96% accuracy through Optuna-based hyperparameter tuning. Deployed the model using TorchServe for scalable API-based predictions. Automated the full ML pipeline from data ingestion to deployment.
 
 ### [Brain Tumor Classification System](https://github.com/guptapriya-83900/Brain_Tumor_Detection) 
 Created a high-accuracy (90%+) brain tumor classification model using ResNet and VGG-16. Fine-tuned with TensorFlow and Flask for real-time predictions, leveraging advanced preprocessing and data augmentation strategies.
@@ -47,6 +44,9 @@ A tool to estimate salaries for data science roles using web-scraped data from G
 
 ### [AWS-Services](https://github.com/guptapriya-83900/AWS-Services)
 Repository containing PDF guides explaining key AWS services (Lambda, API Gateway, RDS, VPC) and their interactions, offering a foundational understanding of cloud service integration.
+
+### PRODUCT RECOMMENDATION SYSTEM
+Engineered a recommendation system using Autoencoders and PCA to enhance user preference predictions by 20%. Deployed via Flask with optimized generalization techniques like batch normalization and dropout.
 
 ## Professional Summary
 
