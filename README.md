@@ -36,6 +36,9 @@ Developed a chatbot leveraging LLaMA and BERT to deliver personalized, sentiment
 ### [Energy Demand Forecasting System](https://github.com/guptapriya-83900/Energy_Demand_Forecasting_System/tree/main)
 Developed a real-time energy demand forecasting system using a hybrid CNN-LSTM model in PyTorch. Achieved 96% accuracy through Optuna-based hyperparameter tuning. Deployed the model using TorchServe for scalable API-based predictions. Automated the full ML pipeline from data ingestion to deployment.
 
+### [UCI-Health: Predicting Burn Patient Mortality Using ML](https://github.com/guptapriya-83900/UCI-Health---Predicting-Burn-Patient-Mortality-Using-ML)
+Developed an end-to-end machine learning pipeline to predict in-hospital mortality in burn patients using the Global Burn Registry. Achieved 0.935 AUC with a tuned XGBoost model, outperforming the traditional Baux score (0.894 AUC). Used SHAP for interpretability and designed a deployment-ready monitoring framework for usage, drift, and fairness.
+
 ### [Brain Tumor Classification System](https://github.com/guptapriya-83900/Brain_Tumor_Detection) 
 Created a high-accuracy (90%+) brain tumor classification model using ResNet and VGG-16. Fine-tuned with TensorFlow and Flask for real-time predictions, leveraging advanced preprocessing and data augmentation strategies.
 
